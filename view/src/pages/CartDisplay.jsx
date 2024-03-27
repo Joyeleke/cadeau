@@ -93,17 +93,15 @@ export default function CartDisplay() {
 
   return (
     <>
-      <header className="px-8 md:px-16 lg:px-20 pt-8">
-        {status === "failed" ? (
-          <Alert severity="error" className="max-w-96">
-            {errorMessage}
-          </Alert>
-        ) : (
-          ""
-        )}
-      </header>
       <main className="grid grid-cols-1 lg:grid-cols-3 font-mono">
         <section className="col-span-1 lg:col-span-2 px-8 md:px-16 lg:px-20 py-8 md:py-12 lg:py-16 text-sm md:text-md">
+          {status === "failed" ? (
+            <Alert severity="error" className="max-w-96">
+              {errorMessage}
+            </Alert>
+          ) : (
+            ""
+          )}
           <article className="flex justify-between">
             <h2>Cart</h2>
             <p>{cartitems.length} Items</p>
@@ -138,7 +136,7 @@ export default function CartDisplay() {
             </button>
           </div>
         </section>
-        <section className="bg-tempcolor ml-0 lg:ml-12 px-8 md:px-16 lg:px-20 py-8 md:py-12 lg:py-16 text-sm md:text-md">
+        <section className="bg-primary_grey h-screen ml-0 lg:ml-12 px-8 md:px-14 lg:px-16 py-8 md:py-12 lg:py-16 text-sm md:text-md">
           <h2 className="font-bold text-sm lg:text-xl">Order Summary</h2>
           <hr className="w-full my-4 rounded-lg" />
           <article className="flex justify-between mb-4">

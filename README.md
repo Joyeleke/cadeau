@@ -21,4 +21,10 @@ Cadeau is a full-stack e-commerce website application built with Supabase for da
 
 ## Visuals
 
-![HomePage](<appimages/localhost_5173_%20(1).png>)
+Landing Page
+![HomePage](https://ezxeabxdawiisodycekr.supabase.co/storage/v1/object/public/CadeauImages/localhost_5173_%20(1)%20(1).png?t=2024-03-27T12%3A33%3A31.729Z)
+
+Cart Page
+![CartPage](https://ezxeabxdawiisodycekr.supabase.co/storage/v1/object/public/CadeauImages/localhost_5173_cart%20(1).png?t=2024-03-27T12%3A45%3A13.189Z)
+
+
