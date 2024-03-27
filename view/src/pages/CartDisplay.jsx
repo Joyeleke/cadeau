@@ -96,7 +96,7 @@ export default function CartDisplay() {
       <main className="grid grid-cols-1 lg:grid-cols-3 font-mono">
         <section className="col-span-1 lg:col-span-2 px-8 md:px-16 lg:px-20 py-8 md:py-12 lg:py-16 text-sm md:text-md">
           {status === "failed" ? (
-            <Alert severity="error" className="max-w-96">
+            <Alert severity="error" className="max-w-96 my-4">
               {errorMessage}
             </Alert>
           ) : (
