@@ -1,0 +1,18 @@
+export const SponsorsLogos = [
+  "https://ezxeabxdawiisodycekr.supabase.co/storage/v1/object/public/CadeauImages/v914-ning-21a_1-removebg-preview.png",
+  "https://ezxeabxdawiisodycekr.supabase.co/storage/v1/object/public/CadeauImages/v914-ning-21a_1-removebg-preview%20(1).png",
+  "https://ezxeabxdawiisodycekr.supabase.co/storage/v1/object/public/CadeauImages/v914-ning-21a_1__10_-removebg-preview.png",
+  "https://ezxeabxdawiisodycekr.supabase.co/storage/v1/object/public/CadeauImages/v914-ning-21a_1__11_-removebg-preview.png?t=2024-02-29T15%3A49%3A26.826Z",
+  "https://ezxeabxdawiisodycekr.supabase.co/storage/v1/object/public/CadeauImages/v914-ning-21a_1__12_-removebg-preview.png",
+  "https://ezxeabxdawiisodycekr.supabase.co/storage/v1/object/public/CadeauImages/v914-ning-21a_1__13_-removebg-preview.png",
+  "https://ezxeabxdawiisodycekr.supabase.co/storage/v1/object/public/CadeauImages/v914-ning-21a_1__1_-removebg-preview.png",
+  "https://ezxeabxdawiisodycekr.supabase.co/storage/v1/object/public/CadeauImages/v914-ning-21a_1__2_-removebg-preview.png",
+  "https://ezxeabxdawiisodycekr.supabase.co/storage/v1/object/public/CadeauImages/v914-ning-21a_1__3_-removebg-preview.png",
+  "https://ezxeabxdawiisodycekr.supabase.co/storage/v1/object/public/CadeauImages/v914-ning-21a_1__4_-removebg-preview.png",
+  "https://ezxeabxdawiisodycekr.supabase.co/storage/v1/object/public/CadeauImages/v914-ning-21a_1__5_-removebg-preview.png",
+  "https://ezxeabxdawiisodycekr.supabase.co/storage/v1/object/public/CadeauImages/v914-ning-21a_1__6_-removebg-preview.png",
+  "https://ezxeabxdawiisodycekr.supabase.co/storage/v1/object/public/CadeauImages/v914-ning-21a_1__7_-removebg-preview.png",
+  "https://ezxeabxdawiisodycekr.supabase.co/storage/v1/object/public/CadeauImages/v914-ning-21a_1__7_-removebg-preview.png",
+  "https://ezxeabxdawiisodycekr.supabase.co/storage/v1/object/public/CadeauImages/v914-ning-21a_1__8_-removebg-preview.png",
+  "https://ezxeabxdawiisodycekr.supabase.co/storage/v1/object/public/CadeauImages/v914-ning-21a_1__9_-removebg-preview.png",
+];
