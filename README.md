@@ -56,3 +56,19 @@ _You may get started with installing and starting the app below_
    ```
 8. You should be all good to go!
 
+## Support
+
+For support on issues related to this project, feel free to add a message on an existing pull request or create a new one.
+
+## Contributing
+
+Contributions are highly and greatly welcomed. Feel free to pop in anywhere you like.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. 
+
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+4. Push to the Branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
+
